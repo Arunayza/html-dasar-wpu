@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Latihan Form</title>
+</head>
+<body>
+    <table align="center">
+        <tr align="right">
+            <td><label for="Text">Text : </label></td>
+            <td><input type="text" id="Text"></td>
+        </tr>
+        <tr align="right">
+            <td><label for="password">password : </label></td>
+            <td><input type="password" id="password"></td>
+        </tr>
+        <tr align="center">
+            <td colspan="2">
+                <label for="pria">pria</label>
+                <input type="radio" id="pria" name="jeniskelamin">
+                
+                <label for="wanita">wanita</label>
+                <input type="radio" id="wanita" name="jeniskelamin">
+            </td>
+        </tr>
+        <tr align="center">
+            <td colspan="2">
+                <label for="menyanyi">menyanyi</label>
+                <input type="checkbox" id="menyanyi">
+
+                <label for="olahraga">olahraga</label>
+                <input type="checkbox" id="olahraga">
+            </td>
+        </tr>
+        <tr align="center">
+            <td><label for="combo">Combo Box:</label></td>
+            <td> 
+                <select id="combo">
+                    <option>Bandung</option>
+                    <option>Jakarta</option>
+                    <option>Yogyakarta</option>
+                </select>
+            </td>
+        </tr>
+        <tr align="right">
+            <td><label for="text">Textarea :</label></td>
+            <td><textarea id="text"></textarea></td>
+        </tr>
+        <tr align="center">
+            <td colspan="2">
+                <button type="submit">Button</button>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
