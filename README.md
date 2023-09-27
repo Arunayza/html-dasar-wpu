@@ -1,6 +1,6 @@
 # Pendahuluan HTML
 Silahkan bagi yang ingin melihat lebih lanjut di 
-Youtube - [Web Programing UNPAS]https://youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&si=YEF5a1iR9ITRJxA0
+Youtube - [Web Programing UNPAS](https://youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&si=YEF5a1iR9ITRJxA0)
 
 ## HTML (Hyper-Text Markup Language)
 adalah sebuah bahasa Markup bukan bahasa pemrograman
